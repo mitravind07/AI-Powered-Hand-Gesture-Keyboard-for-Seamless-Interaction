@@ -1,2 +1,2 @@
 # AI-Powered-Hand-Gesture-Keyboard-for-Seamless-Interaction
-n AI-driven virtual keyboard using hand gestures  Computer vision and Machine learning algorithms (CNN, SVM) for Real-time gesture re e human-computer interaction through hand-tracking and visual feedback. • Built a responsive front-end interface to display gesture-based inputs and enhance real-time user interaction.cognition and Command mapping.
+AI-driven virtual keyboard using hand gestures  Computer vision and Machine learning algorithms (CNN, SVM) for Real-time gesture human-computer interaction through hand-tracking and visual feedback where i Built a responsive front-end interface to display gesture-based inputs and enhance real-time user interaction.cognition and Command mapping.
